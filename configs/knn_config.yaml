@@ -1,0 +1,5 @@
+data_params:
+  data_path: "CIFAR-10/"
+  train_ratio: 0.99
+model_params:
+  k: 5
