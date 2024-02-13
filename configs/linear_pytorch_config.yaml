@@ -9,4 +9,4 @@ model_params:
   weight_decay: 0.0001
   gamma: 0.1
   step_size: 5
-  num_epochs: 10
+  num_epochs: 50
